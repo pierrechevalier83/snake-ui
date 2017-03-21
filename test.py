@@ -1,1 +1,2 @@
-print("Hello pussymaker")
+print("Hello")
+print("This is more polite")
