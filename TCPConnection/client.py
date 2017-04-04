@@ -10,8 +10,8 @@ s.connect((TCP_IP, TCP_PORT))
 
 
 # Message to send
-#message_json = json.dumps([{"Value":"42"}])
-message_json = json.dumps({'4': 5, '6': 7}, sort_keys=True, indent=4)
+message_json = json.dumps([{"Value":"42"}])
+#message_json = json.dumps({'4': 5, '6': 7}, sort_keys=True, indent=4)
 
 
 # Send data to the server
